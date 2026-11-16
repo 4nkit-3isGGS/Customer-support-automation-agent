@@ -1,0 +1,7 @@
+# Local only: Gmail login script, evals, playground
+-r requirements.txt
+
+google-auth-oauthlib
+pydantic-evals
+ipykernel
+nest-asyncio
