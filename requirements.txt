@@ -4,4 +4,4 @@ python-dotenv
 psycopg[binary]
 google-api-python-client
 google-auth
-pydantic-ai-slim[anthropic]
+pydantic-ai-slim[groq]
